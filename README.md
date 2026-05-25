@@ -29,10 +29,4 @@ Visit: https://aistudio.google.com/app/apikey
 - "Tell me about wireless earbuds"
 - "Order status 12345"
 
-## Support
-
-Email: support@example.com
-
----
-
-**BIA_Capstone_Final - Ready for Submission! 🎉**
+## Project Structure
